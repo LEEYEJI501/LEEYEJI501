@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-https://img.shields.io/static/v1?label=<>&message=<JAVA>&color=<ORANGE>
+https://img.shields.io/badge/Tech%Blog-9986EE?style=flat-square&logo=Blogger&logoColor=white&link=https://bbumom.tistory.com/
 
 <!--
 **LEEYEJI501/LEEYEJI501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
