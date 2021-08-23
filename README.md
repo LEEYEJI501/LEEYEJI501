@@ -1,6 +1,10 @@
-### Hi there 👋
+<!-- 헤더 -->
+![header](https://capsule-render.vercel.app/api?type=rounded&color=FFD73C&height=300&section=header&text=hihi&fontSize=90)
 
-https://img.shields.io/badge/Tech%Blog-9986EE?style=flat-square&logo=Blogger&logoColor=white&link=https://bbumom.tistory.com/
+<!-- 뱃지 -->
+https://img.shields.io/badge/-JAVA-blue
+https://img.shields.io/badge/-Tech%Blog-blue?logo=Blogger&logoColor=white
+
 
 <!--
 **LEEYEJI501/LEEYEJI501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
