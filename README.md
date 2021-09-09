@@ -1,5 +1,5 @@
 <!-- 헤더 -->
-![header](https://capsule-render.vercel.app/api?type=rounded&color=FFD73C&height=300&section=header&text=hihi&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=FFD73C&height=300&section=header&text=LEE YEJI&fontSize=90)
 
 <!-- 뱃지 -->
 <!-- https://img.shields.io/badge/-JAVA-blue
