@@ -1,7 +1,7 @@
 <!-- 헤더 -->
 <!--![header](https://capsule-render.vercel.app/api?type=rounded&color=FFD73C&height=300&section=header&text=LEEYEJI&fontSize=90)-->
 
-<h3 align="center"> 웹, 안드로이드 개발자 이예지 입니다.&nbsp 💻 </h3>
+<h3 align="center"> 프론트엔드 개발자 이예지 입니다.&nbsp 💻 </h3>
 
 <h3 align="center">기술 스택 🛠</h3>
 <p align="center">
