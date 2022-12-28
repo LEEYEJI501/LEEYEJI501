@@ -1,7 +1,7 @@
 <!-- 헤더 -->
 <!--![header](https://capsule-render.vercel.app/api?type=rounded&color=FFD73C&height=300&section=header&text=LEEYEJI&fontSize=90)-->
 
-<h2 align="left"> 프론트엔드 개발자 이예지 &nbsp 💻 </h2>
+<h2 align="left"> 웹 개발자 이예지 &nbsp 💻 </h2>
 
 <h3 align="left">SKILL 🛠</h3>
 <p align="left">
@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
  
 </br>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> 
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"> 
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
