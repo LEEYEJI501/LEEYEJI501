@@ -23,7 +23,7 @@
   
   <!--<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
-  <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white">-->
+  <img src="https://img.shields.io/badge/apache-tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white">-->
 </p>
 
 <h4 align="left">STUDYING 📔</h4>
