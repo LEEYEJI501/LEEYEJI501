@@ -1,7 +1,7 @@
 <!-- 헤더 -->
 <!--![header](https://capsule-render.vercel.app/api?type=rounded&color=FFD73C&height=300&section=header&text=LEEYEJI&fontSize=90)-->
 
-<h2 align="left"> 웹 개발자 이예지 &nbsp 💻 </h2>
+<h2 align="left"> 개발자 이예지 &nbsp💻 </h2>
 
 <h3 align="left">SKILL 🛠</h3>
 <p align="left">
